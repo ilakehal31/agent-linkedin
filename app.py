@@ -69,7 +69,9 @@ if contexts:
         key="active_context",
     )
 else:
-    st.sidebar.warning("Aucun contexte. Créez-en un dans Onboarding.")
+    st.sidebar.warning("Aucun contexte trouvé.")
+    if st.sidebar.button("Créer mon contexte"):
+        st.switch_page("pages/1_onboarding.py")
     active = None
 
 # API status
@@ -86,6 +88,9 @@ if not or_ok:
 # --- Main page ---
 st.title("LinkedIn Ghost Writer")
 st.markdown("Générez des posts LinkedIn optimisés pour votre audience.")
+
+if not contexts:
+    st.info("Bienvenue ! Commencez par configurer vos clés API dans **Settings**, puis créez votre contexte dans **Onboarding**.")
 
 col1, col2, col3 = st.columns(3)
 
