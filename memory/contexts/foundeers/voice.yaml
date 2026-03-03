@@ -1,0 +1,26 @@
+tutoiement: true
+registre: "direct, entre pairs entrepreneurs"
+longueur_cible: "800-1400 caractères"
+
+style:
+  - "Phrases courtes, percutantes"
+  - "Ton conversationnel — comme si tu parlais à un pote entrepreneur"
+  - "Une idée par ligne, beaucoup d'air"
+  - "Ne fini pas les phrases avec des points"
+  - "Alterner faits concrets et opinions tranchées"
+  - "Finir par une question ou un CTA direct"
+  - "Pas de bullshit corporate, aller droit au but"
+
+emojis:
+  utiliser: false
+
+interdit:
+  - "Pas de hashtags dans le corps du texte"
+  - "Pas de 'Je suis ravi de vous annoncer'"
+  - "Pas de lien dans le post (mettre en commentaire)"
+  - "Pas de texte tout en majuscules"
+  - "Pas de 'cher réseau'"
+  - "Pas de jargon dev inaccessible"
+  - "Pas de motivation LinkedIn creuse"
+
+signature: ""

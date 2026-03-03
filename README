@@ -1,0 +1,33 @@
+Niveau 1 — Le minimum quotidien (5 min/jour)
+
+  # 1. Lance un generate avec juste un sujet
+  python main.py generate -t "ton sujet du jour"
+
+  Tu choisis un post, il est copié dans le presse-papier, tu colles sur LinkedIn. C'est tout.
+
+Niveau 2 — La routine structurée (recommandé)
+
+  Lundi matin — Planifie ta semaine :
+  python main.py suggest
+  L'agent te propose 5 sujets en tenant compte des piliers et du funnel. Note les 4 que tu gardes.
+
+  Lundi à vendredi — 1 post/jour :
+  python main.py generate -t "le sujet choisi"
+  L'auto-funnel gère la répartition : 2 TOFU, 1 MOFU, 1 BOFU par semaine.
+
+  Vendredi / week-end — Feedback :
+  python main.py history
+  python main.py feedback --post-id 12 --score 8 --note "bon engagement, 3 DMs"
+  python main.py feedback --post-id 13 --score 4 --note "aucune réaction"
+  L'agent apprend ce qui marche et ce qui foire.
+
+Niveau 3 — Mode avancé
+
+  # Forcer un post BOFU quand tu veux des leads
+  python main.py generate -t "case study productisation" --funnel bofu
+
+  # Post rapide pour réagir à l'actu
+  python main.py quick -t "l'IA remplace les agences ?"
+
+  # Vérifier ta distribution funnel
+  python main.py history --funnel-stats

@@ -1,0 +1,65 @@
+funnel:
+  tofu:
+    label: "Awareness — haut de funnel"
+    objectif: "Maximiser le reach et attirer de nouveaux abonnés"
+    ton: "Accessible, curieux, légèrement provocateur"
+    profondeur: "Surface — une idée forte, pas de détails techniques"
+    longueur: "600-900 caractères (court, snackable)"
+    cta_style: "Question ouverte qui fait réagir ('Et vous ?', 'D'accord ou pas ?')"
+    formats_preferes: ["Controversial Take", "Question / Débat", "Chiffres / Data"]
+    piliers_preferes: ["Tendances & Veille", "Mindset & Entrepreneuriat"]
+    kpis: ["impressions", "nouveaux abonnés", "partages"]
+    exemples_hooks:
+      - "Adaptez selon votre niche — hook TOFU 1"
+      - "Adaptez selon votre niche — hook TOFU 2"
+    regles:
+      - "Pas de mention de service ou offre"
+      - "Pas de jargon technique"
+      - "Rester généraliste — parler au plus grand nombre"
+      - "Hook ultra-court (< 10 mots)"
+      - "Favoriser l'émotion et l'opinion"
+
+  mofu:
+    label: "Consideration — milieu de funnel"
+    objectif: "Démontrer l'expertise et construire la confiance"
+    ton: "Expert-accessible, pédagogique, concret"
+    profondeur: "Moyenne — montrer le comment, pas juste le quoi"
+    longueur: "900-1500 caractères (développé, riche)"
+    cta_style: "Inciter à sauvegarder ou commenter ('Sauvegardez ce post', 'Partagez votre méthode')"
+    formats_preferes: ["How-To / Listicle", "Avant / Après", "Storytelling"]
+    piliers_preferes: ["Expertise métier", "Résultats & Case studies"]
+    kpis: ["saves", "commentaires détaillés", "DMs", "temps de lecture"]
+    exemples_hooks:
+      - "Adaptez selon votre niche — hook MOFU 1"
+      - "Adaptez selon votre niche — hook MOFU 2"
+    regles:
+      - "Inclure des éléments actionnables (étapes, frameworks, méthodes)"
+      - "Utiliser des chiffres concrets et des résultats"
+      - "Montrer l'expertise sans vendre"
+      - "OK de mentionner son domaine d'activité, pas son offre"
+      - "Favoriser les preuves : screenshots, données, avant/après"
+
+  bofu:
+    label: "Decision — bas de funnel"
+    objectif: "Générer des leads qualifiés et des prises de contact"
+    ton: "Direct, confiant, orienté résultat"
+    profondeur: "Profonde — cas client détaillé, preuve sociale, résultat chiffré"
+    longueur: "1000-1800 caractères (complet, convaincant)"
+    cta_style: "Action directe ('Envoyez-moi un DM', 'Lien en commentaire', 'On en parle ?')"
+    formats_preferes: ["Avant / Après", "Storytelling", "Chiffres / Data"]
+    piliers_preferes: ["Résultats & Case studies", "Expertise métier"]
+    kpis: ["DMs reçus", "clics lien", "leads générés", "calls bookés"]
+    exemples_hooks:
+      - "Adaptez selon votre niche — hook BOFU 1"
+      - "Adaptez selon votre niche — hook BOFU 2"
+    regles:
+      - "Toujours inclure un résultat chiffré"
+      - "Preuve sociale obligatoire (client, témoignage, data)"
+      - "CTA explicite vers une action de conversion"
+      - "OK de mentionner son offre/service (subtilement)"
+      - "Finir sur l'urgence ou la rareté si pertinent"
+
+distribution_hebdo:
+  tofu: 2
+  mofu: 1
+  bofu: 1

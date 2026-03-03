@@ -1,0 +1,31 @@
+name: "Nom du client"
+description: "Description courte du client / de la niche"
+
+persona:
+  titre: "Titre du persona cible"
+  secteur: "Secteur d'activité"
+  taille_entreprise: "Taille de l'entreprise"
+  localisation: "Pays / région"
+  age_range: "Tranche d'âge"
+  niveau_tech: "Niveau tech du persona"
+
+douleurs:
+  - "Douleur 1"
+  - "Douleur 2"
+
+objectifs:
+  - "Objectif 1"
+  - "Objectif 2"
+
+objections:
+  - "Objection 1"
+  - "Objection 2"
+
+vocabulaire:
+  utilise: ["mot1", "mot2"]
+  evite: ["mot3", "mot4"]
+
+linkedin:
+  temps_lecture: "Quand le persona scrolle LinkedIn"
+  reagit_a: ["type de contenu 1", "type de contenu 2"]
+  ignore: ["type de contenu à éviter"]

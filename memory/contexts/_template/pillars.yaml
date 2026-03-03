@@ -1,0 +1,36 @@
+description: "Les thèmes récurrents autour desquels tourne le contenu"
+
+pillars:
+  - name: "Expertise métier"
+    description: "Montrer la maîtrise du domaine"
+    exemples_sujets:
+      - "Sujet expert 1"
+      - "Sujet expert 2"
+
+  - name: "Coulisses & Authenticité"
+    description: "Humaniser la marque"
+    exemples_sujets:
+      - "Sujet coulisses 1"
+      - "Sujet coulisses 2"
+
+  - name: "Résultats & Case studies"
+    description: "Prouver avec des résultats concrets"
+    exemples_sujets:
+      - "Sujet résultat 1"
+      - "Sujet résultat 2"
+
+  - name: "Tendances & Veille"
+    description: "Se positionner comme veilleur du secteur"
+    exemples_sujets:
+      - "Sujet tendance 1"
+      - "Sujet tendance 2"
+
+  - name: "Mindset & Entrepreneuriat"
+    description: "Partager la vision, les valeurs"
+    exemples_sujets:
+      - "Sujet mindset 1"
+      - "Sujet mindset 2"
+
+frequence_recommandee:
+  posts_par_semaine: 4
+  distribution: "2 expertise + 1 coulisses + 1 tendances (alterner les autres)"

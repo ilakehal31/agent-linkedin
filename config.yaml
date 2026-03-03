@@ -1,0 +1,32 @@
+openrouter:
+  base_url: "https://openrouter.ai/api/v1"
+  models:
+    writer: "anthropic/claude-sonnet-4-6"
+    scorer: "anthropic/claude-haiku-4-5"
+    research_synth: "anthropic/claude-sonnet-4-6"
+    query_gen: "anthropic/claude-haiku-4-5"
+    suggest: "google/gemini-2.5-flash"
+
+defaults:
+  context: "foundeers"
+  num_posts: 3
+  temperature:
+    writer: 0.8
+    scorer: 0.3
+    research_synth: 0.4
+    query_gen: 0.5
+    suggest: 0.9
+
+research:
+  cache_ttl_hours: 24
+  max_queries: 3
+  max_results_per_query: 5
+
+scoring:
+  weights:
+    hook: 2.0
+    structure: 1.0
+    icp_fit: 2.0
+    cta: 1.5
+    originality: 1.5
+    funnel_fit: 2.0

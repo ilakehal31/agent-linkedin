@@ -1,0 +1,70 @@
+funnel:
+  tofu:
+    label: "Awareness — haut de funnel"
+    objectif: "Maximiser le reach et attirer des fondateurs d'agences B2B"
+    ton: "Direct, provocateur, opinion tranchée"
+    profondeur: "Surface — une idée forte, un constat qui fait réagir"
+    longueur: "600-900 caractères (court, snackable)"
+    cta_style: "Question ouverte qui fait réagir ('T'en penses quoi ?', 'D'accord ou pas ?')"
+    formats_preferes: ["Controversial Take", "Question / Débat", "Chiffres / Data"]
+    piliers_preferes: ["Tendances & Veille", "Growth Agences B2B"]
+    kpis: ["impressions", "nouveaux abonnés", "partages"]
+    exemples_hooks:
+      - "80% des agences B2B ne passeront pas le cap des 500K€ de CA."
+      - "Le modèle agence est cassé. Et tout le monde le sait."
+      - "Tu vends du temps. Ton agence ne scalera jamais."
+      - "Les agences qui n'ont pas de produit en 2026 sont déjà mortes."
+    regles:
+      - "Pas de mention de Foundeers ou de ses services"
+      - "Pas de jargon technique"
+      - "Parler aux fondateurs d'agences au sens large"
+      - "Hook ultra-court (< 10 mots)"
+      - "Favoriser l'opinion forte et le constat qui pique"
+
+  mofu:
+    label: "Consideration — milieu de funnel"
+    objectif: "Démontrer l'expertise en productisation et MVP pour agences"
+    ton: "Expert-accessible, pédagogique, concret"
+    profondeur: "Moyenne — montrer le comment, frameworks actionnables"
+    longueur: "900-1500 caractères (développé, riche)"
+    cta_style: "Inciter à sauvegarder ou commenter ('Save ce post', 'Dis-moi ta méthode en commentaire')"
+    formats_preferes: ["How-To / Listicle", "Avant / Après", "Storytelling"]
+    piliers_preferes: ["Productisation", "MVP & Tech", "Growth Agences B2B"]
+    kpis: ["saves", "commentaires détaillés", "DMs", "temps de lecture"]
+    exemples_hooks:
+      - "Voici le framework exact pour productiser ton agence en 90 jours :"
+      - "3 étapes pour passer de prestation sur-mesure à offre packagée :"
+      - "On a buildé 10 MVP pour des agences. Voici ce qui marche (et ce qui foire)."
+      - "Le vrai coût d'un MVP en 2026 — les chiffres que personne ne te donne :"
+    regles:
+      - "Inclure des étapes, frameworks ou méthodes actionnables"
+      - "Utiliser des chiffres concrets et des résultats"
+      - "Montrer l'expertise sans vendre Foundeers"
+      - "OK de mentionner qu'on build des MVP / SaaS, pas de pitch"
+      - "Favoriser les preuves : données, avant/après, exemples réels"
+
+  bofu:
+    label: "Decision — bas de funnel"
+    objectif: "Générer des DMs et des calls avec des fondateurs d'agences prêts à productiser"
+    ton: "Direct, confiant, orienté résultat"
+    profondeur: "Profonde — cas client détaillé, preuve sociale, résultat chiffré"
+    longueur: "1000-1800 caractères (complet, convaincant)"
+    cta_style: "Action directe ('DM-moi', 'Lien en commentaire', 'On en parle ? Réserve un créneau')"
+    formats_preferes: ["Avant / Après", "Storytelling", "Chiffres / Data"]
+    piliers_preferes: ["Résultats & Case studies", "Productisation"]
+    kpis: ["DMs reçus", "clics lien", "leads générés", "calls bookés"]
+    exemples_hooks:
+      - "Une agence de lead gen dépensait 40h/semaine en delivery manuel. Aujourd'hui : 8h."
+      - "De 0 à 30K MRR en 4 mois. Voici comment une agence a productisé son offre."
+      - "Ce fondateur d'agence voulait 'juste un outil interne'. Il a fini avec un SaaS à 15K MRR."
+    regles:
+      - "Toujours inclure un résultat chiffré"
+      - "Preuve sociale obligatoire (client, témoignage, data)"
+      - "CTA explicite vers une action de conversion (DM, call, lien)"
+      - "OK de mentionner Foundeers subtilement"
+      - "Montrer la transformation concrète d'une agence"
+
+distribution_hebdo:
+  tofu: 2
+  mofu: 1
+  bofu: 1
