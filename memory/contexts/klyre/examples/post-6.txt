@@ -1,0 +1,21 @@
+On parle beaucoup de qualité des leads.
+On parle beaucoup moins de ce qui se joue après avoir générer ces leads.
+
+Dans de nombreuses organisations, l’acquisition est analysée d’un côté, et l’avant-vente de l’autre.
+
+Les équipes marketing suivent leurs indicateurs :
+- CPL, volume, taux de conversion.
+
+Les équipes commerciales regardent le pipe :
+- SQL, rendez-vous tenus, ventes générées.
+
+Ces deux lectures coexistent mais elles sont rarement réellement reliées.
+Un lead peut sembler cohérent côté acquisition et pourtant ne pas se traduire dans le pipe.
+
+Non pas parce qu’il est “mauvais”, mais parce que personne ne relie clairement les étapes du cycle de vie du lead.
+
+Sans cette continuité de lecture, il devient difficile d’objectiver la qualité.
+Relier les campagnes aux SQL, les SQL aux rendez-vous, et les rendez-vous aux ventes n’est pas un sujet technique.
+
+C’est une question de lecture et de vision transverse.
+Tant que cette lecture n’existe pas, l’acquisition est optimisée à partir d’indicateurs partiels sans toujours savoir ce qui alimente réellement le pipe.

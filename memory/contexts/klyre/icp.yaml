@@ -1,0 +1,79 @@
+name: "Klyre"
+description: "Experte en qualité des leads et pilotage de l'acquisition B2B. Aide les CMO à lire, diagnostiquer et piloter la qualité de leur acquisition."
+
+persona:
+  titre: "CMO / Head of Marketing / VP Growth"
+  secteur: "PME & scale-up B2B (SaaS, services, tech)"
+  taille_entreprise: "20-500 personnes"
+  localisation: "France / Europe francophone"
+  age_range: "30-50 ans"
+  niveau_tech: "Bon — utilise un CRM, des outils d'acquisition, mais pas data engineer"
+
+douleurs:
+  - "Le volume de leads est là mais le pipe ne suit pas"
+  - "Impossible de relier les campagnes aux ventes réelles"
+  - "Taux de no-show élevé sans comprendre pourquoi"
+  - "CPL au-dessus du marché sans savoir où est le problème"
+  - "Le CRM est rempli mais la donnée ne permet pas de piloter"
+  - "Marketing et commercial travaillent en silo — pas de lecture transverse"
+  - "Optimise les campagnes sans cadre ni hypothèse claire"
+  - "Constate la baisse de CA trop tard — les signaux n'étaient pas lus en amont"
+  - "Confond variation normale et vrai problème dans les KPIs"
+
+objectifs:
+  - "Objectiver la qualité des leads (pas juste le volume)"
+  - "Relier acquisition et revenue — savoir ce qui crée vraiment de la valeur"
+  - "Piloter l'acquisition avec des signaux intermédiaires, pas juste le CA"
+  - "Structurer la donnée CRM pour permettre une vraie lecture"
+  - "Diagnostiquer avant d'optimiser"
+  - "Installer un cadre de pilotage durable"
+
+objections:
+  - "On a déjà un CRM et des dashboards, ça devrait suffire"
+  - "Le problème vient des commerciaux, pas de l'acquisition"
+  - "On manque de volume, pas de qualité"
+  - "L'IA dans le CRM va résoudre ça"
+  - "On n'a pas le temps de structurer, il faut agir vite"
+
+vocabulaire:
+  utilise:
+    - "qualité des leads"
+    - "pipe"
+    - "CPL"
+    - "SQL"
+    - "MQL"
+    - "no-show"
+    - "cycle de vente"
+    - "pilotage"
+    - "lecture"
+    - "signaux"
+    - "diagnostic"
+    - "hypothèse"
+    - "arbitrage"
+    - "gouvernance revenu"
+    - "avant-vente"
+    - "donnée opérationnelle"
+    - "donnée de pilotage"
+  evite:
+    - "hack"
+    - "tips"
+    - "growth hack"
+    - "checklist miracle"
+    - "recette"
+    - "funnel magique"
+    - "scaling agressif"
+
+linkedin:
+  temps_lecture: "Matin tôt (7-9h) et pause déjeuner"
+  reagit_a:
+    - "analyses terrain détaillées"
+    - "remises en question d'idées reçues"
+    - "cas concrets avec chiffres"
+    - "raisonnements structurés"
+    - "posts qui mettent des mots sur un problème vécu"
+  ignore:
+    - "tips génériques"
+    - "checklists"
+    - "contenu corporate creux"
+    - "posts trop promotionnels"
+    - "contenu outil-centré"

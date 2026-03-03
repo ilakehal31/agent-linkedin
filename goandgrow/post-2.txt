@@ -1,0 +1,23 @@
+Avant d'optimiser un levier d'acquisition, il y a une étape que beaucoup d'équipes marketing sautent.
+
+Quand un indicateur d'acquisition bouge (SQL, RDV, taux de transformation, coût par lead…), la tentation est forte d'agir vite.
+- Optimiser une campagne.
+- Changer un ciblage.
+- Ajuster un message.
+- Changer un formulaire
+
+Le problème n'est pas l'action, c'est l'absence de cadrage avant l'action.
+
+Dans la majorité des cas que j'observe, les décisions côté acquisition sont prises sans avoir répondu clairement à cette question : « Qu'est-ce que je cherche à vérifier ? »
+
+Pourtant, une décision d'acquisition utile devrait toujours être cadrée autour de trois éléments simples :
+1. Le signal précis qui déclenche l'action (pas « les leads sont moins bons », mais quoi exactement, où et depuis quand)
+2. L'hypothèse que l'on cherche à valider ou invalider(problème de ciblage, de qualification, de timing, de message…)
+3. L'indicateur qui permettra de juger la décision (avant même de lancer l'action)
+
+Sans ce cadre :
+- on optimise trop large,
+- on interprète mal les résultats,
+- et on apprend très peu de ce qu'on teste.
+
+Ici, ce n'est pas l'optimisation de l'acquisition qui pose problème mais l'optimisation sans hypothèse claire.

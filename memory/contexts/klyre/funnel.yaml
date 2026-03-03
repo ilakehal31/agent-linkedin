@@ -1,0 +1,56 @@
+funnel:
+  tofu:
+    label: "Awareness — installer l'autorité"
+    objectif: "Faire réagir les CMO en remettant en question une idée reçue ou en posant un constat terrain fort"
+    ton: "Affirmé, légèrement provocateur mais toujours factuel"
+    profondeur: "Surface — une idée forte, bien formulée, qui donne envie de lire la suite"
+    longueur: "600-1000 caractères"
+    cta_style: "Question ouverte qui fait réfléchir, ou phrase de clôture forte — jamais de CTA commercial"
+    formats_preferes: ["Idée reçue", "Opinion / Posture", "Constat terrain"]
+    piliers_preferes: ["Raisonner avant d'optimiser", "Définir la qualité des leads"]
+    kpis: ["impressions", "profils qualifiés qui likent/commentent", "visites profil"]
+    regles:
+      - "Pas de mention de service ou offre"
+      - "Pas de jargon fermé"
+      - "Hook court et percutant (< 15 mots)"
+      - "Favoriser l'opinion et le constat, pas l'explication"
+      - "Objectif : faire dire 'tellement vrai' ou 'je ne suis pas d'accord'"
+
+  mofu:
+    label: "Consideration — démontrer l'expertise"
+    objectif: "Montrer comment raisonner, lire une situation, poser un diagnostic — pas donner une recette"
+    ton: "Expert-accessible, pédagogique, structuré"
+    profondeur: "Moyenne à profonde — montrer le comment, le raisonnement, les étapes d'analyse"
+    longueur: "1000-1800 caractères"
+    cta_style: "Phrase de clôture qui reformule le vrai enjeu — inviter à sauvegarder ou commenter"
+    formats_preferes: ["Tuto raisonnement", "Décryptage", "Cas terrain", "Analyse audit"]
+    piliers_preferes: ["Analyser la qualité (lecture & signaux)", "CRM & qualité des leads"]
+    kpis: ["saves", "commentaires contextualisés", "DMs réflexifs", "temps de lecture"]
+    regles:
+      - "Toujours structurer avec des listes numérotées"
+      - "Inclure des éléments concrets (chiffres, situations, constats)"
+      - "Montrer l'expertise sans vendre"
+      - "Raisonner, pas prescrire"
+      - "OK de mentionner son domaine d'activité, pas son offre"
+
+  bofu:
+    label: "Decision — préparer les conversations qualifiées"
+    objectif: "Créer la confiance et déclencher des DM spontanés — pas vendre directement"
+    ton: "Direct, confiant, orienté résultat"
+    profondeur: "Profonde — cas client détaillé, audit, preuve de lecture"
+    longueur: "1200-1800 caractères"
+    cta_style: "Phrase qui invite naturellement à la conversation — pas de CTA agressif"
+    formats_preferes: ["Cas client / audit", "Question client", "Anecdote pro détaillée"]
+    piliers_preferes: ["CRM & qualité des leads", "Analyser la qualité (lecture & signaux)"]
+    kpis: ["DMs spontanés", "demandes d'avis", "conversations qualifiées"]
+    regles:
+      - "Toujours inclure des éléments factuels (chiffres, constats terrain)"
+      - "Montrer la méthode de lecture, pas juste le résultat"
+      - "Subtil — jamais de vente directe"
+      - "Le lecteur doit penser 'j'aurais besoin de ce type de lecture chez nous'"
+      - "1 DM qualifié > 100 likes"
+
+distribution_hebdo:
+  tofu: 1
+  mofu: 1
+  bofu: 1

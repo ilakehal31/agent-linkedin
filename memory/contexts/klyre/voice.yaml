@@ -1,0 +1,32 @@
+tutoiement: false
+registre: "expert-accessible, analytique, posé — jamais dans la vulgarisation excessive ni le jargon fermé"
+longueur_cible: "900-1800 caractères"
+
+style:
+  - "Phrases courtes, structurées, claires"
+  - "Ton affirmé mais jamais arrogant — posture d'experte qui explique"
+  - "Raisonnement avant conclusion — toujours montrer le chemin de pensée"
+  - "Listes numérotées pour structurer les idées (1. 2. 3.)"
+  - "Alterner constat factuel et analyse"
+  - "Ouvrir par un constat terrain ou une situation concrète"
+  - "Fermer par une prise de recul ou une reformulation du vrai enjeu"
+  - "Pas de CTA agressif — plutôt une phrase de clôture qui fait réfléchir"
+  - "Pas de storytelling émotionnel — rester dans l'intellectuel et le factuel"
+  - "Utiliser des questions rhétoriques pour guider la lecture"
+
+emojis:
+  utiliser: false
+  frequence: "Quasi jamais. Maximum 1 emoji discret en fin de post si pertinent."
+
+interdit:
+  - "Pas de hashtags dans le corps du texte"
+  - "Pas de lien dans le post"
+  - "Pas de tips, checklists ou recettes miracles"
+  - "Pas de 'Je suis ravie de vous annoncer'"
+  - "Pas de ton coach / motivationnel"
+  - "Pas de vente directe ou mention d'offre"
+  - "Pas de bullet points emoji (pas de ✅ 🔥 💡 en début de ligne)"
+  - "Pas de formules corporate creuses"
+  - "Pas de promesses de résultats chiffrés exagérés"
+
+signature: ""

@@ -1,0 +1,68 @@
+formats:
+  - name: "Idée reçue"
+    description: "Dézinguer une croyance répandue dans le marketing B2B"
+    structure: |
+      Hook provocateur (constat qui remet en question)
+      Le réflexe courant (ce que tout le monde fait)
+      Pourquoi c'est insuffisant ou faux (2-3 lignes)
+      La vraie question à se poser
+      Phrase de clôture forte
+    exemple_hook: "Ajouter de l'IA dans un CRM n'a jamais garanti une meilleure gouvernance revenu..."
+    performance: "Fort en réactions et débat"
+
+  - name: "Tuto raisonnement"
+    description: "Expliquer comment raisonner face à une situation — pas une checklist mais un cadre de pensée"
+    structure: |
+      Hook (situation ou question concrète)
+      Le réflexe courant (2-3 lignes)
+      Le problème avec ce réflexe
+      Le cadre de raisonnement (3 éléments numérotés)
+      Sans ce cadre, voilà ce qui se passe
+      Reformulation du vrai enjeu
+    exemple_hook: "Avant d'optimiser un levier d'acquisition, il y a une étape que beaucoup d'équipes marketing sautent."
+    performance: "Fort en saves et crédibilité"
+
+  - name: "Cas terrain / Audit"
+    description: "Analyse d'une situation réelle rencontrée en audit ou chez un client"
+    structure: |
+      Hook (chiffres ou constat terrain frappant)
+      Contexte de la situation (3-4 lignes)
+      Les 3 éléments à analyser (liste numérotée détaillée)
+      Ce que ça révèle
+      Phrase de clôture (le vrai enjeu)
+    exemple_hook: "Près de 50 % de no-show. Un volume de leads élevé. Un CPL très au-dessus du marché."
+    performance: "Fort en DMs et crédibilité"
+
+  - name: "Décryptage"
+    description: "Analyse d'un indicateur, d'un signal ou d'un concept souvent mal compris"
+    structure: |
+      Hook (le signal ou l'indicateur en question)
+      Ce qu'on croit qu'il signifie
+      Ce qu'il signifie vraiment
+      Comment le lire correctement
+      Phrase de recul
+    exemple_hook: "Quand une baisse apparaît dans le chiffre d'affaires, il est souvent trop tard pour corriger l'acquisition."
+    performance: "Fort en valeur perçue et saves"
+
+  - name: "Question client"
+    description: "Réponse à une vraie question posée par un client — format conversationnel"
+    structure: |
+      Hook (la question verbatim entre guillemets)
+      Contexte rapide (qui a posé la question, pourquoi)
+      Sur le papier tout semble en place (3-4 points)
+      Mais voilà le vrai problème
+      Ce qu'on fait concrètement (1. 2. étapes)
+      Reformulation de l'enjeu
+    exemple_hook: "« Pourquoi je n'arrive pas à relier mes campagnes aux ventes, alors que tout est dans le CRM ? »"
+    performance: "Fort en engagement et identification"
+
+  - name: "Opinion / Posture"
+    description: "Prise de position sur une pratique courante — ce que je ne fais pas comme mes pairs"
+    structure: |
+      Hook (affirmation forte ou constat qui dérange)
+      Ce que font la plupart des gens
+      Pourquoi c'est un problème
+      Ma posture / ce que je fais différemment
+      Phrase de clôture réflexive
+    exemple_hook: "On parle beaucoup de qualité des leads. On parle beaucoup moins de ce qui se joue après."
+    performance: "Fort en profils qualifiés et commentaires"

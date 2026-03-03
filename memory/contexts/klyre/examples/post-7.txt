@@ -1,0 +1,29 @@
+« Pourquoi je n’arrive pas à relier mes campagnes aux ventes, alors que tout est dans le CRM ? »
+
+C’est la question qu’un de mes clients m’a posé la semaine dernière.
+
+Sur le papier, tout semble en place : 
+- Les leads sont trackés.
+- Les SQL sont enregistrés.
+- Les rendez-vous sont suivis.
+- Les ventes sont closes.
+
+Et pourtant, il reste très difficile d’identifier clairement quels canaux ou quelles campagnes créent réellement de la valeur.
+
+Dans ce cas précis, l’entreprise utilise 2 CRM :
+- l’un orienté marketing et gestion des leads,
+- l’autre centré sur le pipe et la vente.
+
+Ce n’est pas la complexité qui pose problème mais la rupture de continuité dans la donnée.
+
+L’équipe marketing voit les leads entrer, elle voit parfois les SQL ou les rendez-vous pris.
+
+Mais elle ne sait plus précisément quels SQL ou quels rendez-vous ont réellement débouché sur une vente. À partir de là, une partie essentielle de l’analyse disparaît.
+
+Alors on fait quoi ?
+1. On commence par identifier précisément à quelle étape l’équipe marketing n’a plus de visibilité sur l’issue commerciale.
+2. Ensuite, on définit quelles informations doivent absolument remonter :
+statut final du leads, raison de “lost”, valeur créée etc
+
+Tant que la donnée ne circule pas jusqu’à l’issue commerciale, l’acquisition est pilotée sur des signaux partiels.
+Et un pilotage partiel rend la qualité difficile à objectiver.

@@ -1,0 +1,41 @@
+description: "4 piliers autour de la qualité des leads — de la définition au pilotage"
+
+pillars:
+  - name: "Définir la qualité des leads"
+    description: "Concepts, définitions, cadre intellectuel — poser les bases de ce que signifie vraiment 'qualité'"
+    exemples_sujets:
+      - "Qualité des leads ne veut pas dire score ou KPI"
+      - "5 erreurs qui faussent la définition de la qualité"
+      - "La qualité se construit tout au long du parcours, pas à l'entrée"
+      - "Un 'bon lead' peut devenir un 'mauvais lead' selon le contexte"
+
+  - name: "Analyser la qualité (lecture & signaux)"
+    description: "Lecture des variations, signaux faibles, temporalité — apprendre à lire avant d'agir"
+    exemples_sujets:
+      - "SQL et RDV sont des signaux tardifs et insuffisants"
+      - "Comment analyser la qualité sans regarder que les SQL"
+      - "Pourquoi la qualité doit se lire dans le temps"
+      - "Quand tout indiquait un problème d'acquisition alors que non"
+      - "Relier campagnes aux ventes quand on a 2 CRM"
+
+  - name: "Raisonner avant d'optimiser"
+    description: "Décision, arbitrage, risques, posture CMO — la réflexion avant l'action"
+    exemples_sujets:
+      - "Optimiser sans hypothèse claire est le vrai problème"
+      - "Pourquoi je n'optimise jamais en premier"
+      - "Décider avec une donnée imparfaite"
+      - "Confondre variation normale et vrai problème"
+      - "Le vrai risque marketing ce n'est pas l'inaction"
+
+  - name: "CRM & qualité des leads"
+    description: "Donnée, structuration, limites, erreurs fréquentes — le CRM comme outil de lecture"
+    exemples_sujets:
+      - "Les erreurs CRM qui faussent toute analyse de la qualité"
+      - "Donnée opérationnelle vs donnée de pilotage"
+      - "Reporting flatteur mais inutilisable"
+      - "L'IA dans le CRM n'est pas une gouvernance revenu"
+      - "À quelle étape l'équipe marketing perd la visibilité"
+
+frequence_recommandee:
+  posts_par_semaine: 3
+  distribution: "1 expertise + 1 cas réel/terrain + 1 raisonnement/posture"

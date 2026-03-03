@@ -1,0 +1,28 @@
+Quand la qualité des leads se dégrade,
+vous regardez d’abord du côté de vos campagnes d’acquisition …
+
+ou de votre équipe commerciale ? 
+
+
+Un pipe commercial qui ralentit, souvent le réflexe (naturel) est de corriger les campagnes d’acquisition.
+
+On regarde les campagnes, les audiences, le tracking.
+C’est logique.
+
+Mais c’est rarement suffisant parce que le pipe est un indicateur tardif.
+
+Il signale qu’un problème existe, pas où il est né, ni comment il s’est construit.
+
+Pour analyser correctement la qualité des leads, il faut raisonner dans le cycle, pas uniquement à l’entrée.
+
+Concrètement, ça suppose de se poser trois questions simples :
+1. À partir de quel moment observe-t-on une rupture ?
+(Lead → MQL, MQL → SQL, SQL → RDV etc)
+2. Cette rupture est-elle progressive ou brutale ?
+(dégradation lente vs incident ponctuel)
+3. Est-elle homogène ou concentrée sur un segment précis ?
+(canal, cible, période, type de lead)
+
+Sans cette lecture intermédiaire, on corrige souvent l’acquisition alors que la dégradation peut aussi se produire ailleurs.
+
+Le pipe n’est pas un point de départ, mais plutôt un signal d’alerte 😉

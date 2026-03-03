@@ -1,0 +1,24 @@
+Ajouter de l’IA dans un CRM n’a jamais garanti une meilleure gouvernance revenu...
+
+Les copilotes IA se multiplient dans les CRM :
+Résumé automatique des calls, scoring intelligent, recommandations de relance, assistance à la rédaction…
+
+Ces outils améliorent l’exécution et ils rendent l’activité plus fluide.
+Optimiser l’activité ne signifie pas piloter la valeur.
+
+La question stratégique n’est pas : “L’équipe est-elle plus productive ?”
+Elle est :
+sommes-nous capables d’identifier à quel moment le pipeline commence à détruire de la valeur ?
+
+- Une dérive progressive du CAC.
+- Une baisse silencieuse du taux de SQL.
+- Un délai de traitement qui s’allonge.
+- Une transformation qui s’érode avant même d’impacter le closing.
+
+Ces signaux apparaissent bien avant que le revenu ne chute.
+Pourtant, ils sont rarement pilotés avec la même rigueur que l’activité commerciale.
+
+Beaucoup d’outils améliorent le confort opérationnel.
+Peu permettent de gouverner le revenu.
+
+Et lorsque les budgets d’acquisition sont significatifs, la différence entre les deux devient stratégique.
