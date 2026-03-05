@@ -1,0 +1,15 @@
+[stats: vues=43220, likes=46, commentaires=29, republications=0, icp_attire=non]
+C'est ok de facturer 50k pour un MVP ?
+
+La realite c'est que les couts de dev ont chute depuis 2023
+
+L'utilisation de stack serverless + templates divise les taches repetitives par deux
+L'IA generative permet moins d'ecritures de code redondant
+
+Mais certaines agences facturent toujours comme en 2020
+Meme techno, meme process, prix aberrants
+
+La verite, un MVP solide (design system, priorisation produit, developpement de 3-4 key features) coute 15-25k aujourd'hui
+Pas 50k, encore moins sans accompagnement
+
+Les agences qui maintiennent ces tarifs misent sur la meconnaissance du marche

@@ -1,0 +1,56 @@
+funnel:
+  tofu:
+    label: "Awareness — faire prendre conscience du plafond"
+    objectif: "Faire reagir les dirigeants d'agences B2B en nommant leur probleme. Creer de la resonance avec leur quotidien."
+    ton: "Direct, cash, provocateur mais bienveillant — parler comme un pair qui a compris avant eux"
+    profondeur: "Surface — une idee forte, un constat qui fait reagir"
+    longueur: "500-800 caracteres"
+    cta_style: "Question ouverte ou phrase de cloture punchline — jamais de CTA commercial"
+    formats_preferes: ["Constat cash", "Opinion / Posture", "Chiffre qui claque"]
+    piliers_preferes: ["Le plafond du modele agence", "Productiser son expertise"]
+    kpis: ["impressions", "reactions de dirigeants d'agences (PAS de devs)", "visites profil"]
+    regles:
+      - "Pas de mention de service ou offre"
+      - "Hook ultra court et percutant (< 12 mots)"
+      - "Parler des DOULEURS du dirigeant d'agence, pas de tech"
+      - "Objectif : faire dire 'c'est exactement ma situation'"
+      - "ZERO jargon technique — si un dev senior reagit plus qu'un dirigeant d'agence, le post a rate sa cible"
+
+  mofu:
+    label: "Consideration — montrer qu'il y a un chemin"
+    objectif: "Demontrer que la productisation est possible et accessible. Montrer le process, les etapes, les resultats concrets."
+    ton: "Expert-accessible, pedagogue, concret — toujours du point de vue business"
+    profondeur: "Moyenne — montrer le comment sans vendre"
+    longueur: "800-1200 caracteres"
+    cta_style: "Phrase qui reformule le vrai enjeu — inviter a sauvegarder ou DM"
+    formats_preferes: ["Process explique", "Comparaison", "Behind the scenes"]
+    piliers_preferes: ["Productiser son expertise", "La realite du build"]
+    kpis: ["saves", "commentaires contexualises de dirigeants d'agences", "DMs"]
+    regles:
+      - "Toujours inclure des elements concrets (chiffres, etapes, exemples)"
+      - "Montrer l'expertise business, pas l'expertise technique"
+      - "OK de mentionner le domaine d'activite, pas l'offre en detail"
+      - "Comparer les alternatives sous l'angle cout/risque/resultat pour le dirigeant"
+      - "Si le sujet touche au build/prix : parler en euros et en semaines, pas en technos"
+
+  bofu:
+    label: "Decision — declencher la conversation"
+    objectif: "Creer la confiance pour que le dirigeant d'agence envoie un DM ou book un appel. Montrer des resultats concrets."
+    ton: "Direct, confiant, transparent — montrer qu'on walk the talk"
+    profondeur: "Profonde — cas concret, behind the scenes detaille, resultats chiffres"
+    longueur: "1000-1400 caracteres"
+    cta_style: "Invitation naturelle a la conversation — pas de CTA agressif"
+    formats_preferes: ["Cas client / Behind the scenes", "Building in public", "Offre expliquee"]
+    piliers_preferes: ["Behind the scenes / Building in public", "La realite du build"]
+    kpis: ["DMs spontanes", "demandes d'appel", "conversations qualifiees"]
+    regles:
+      - "Inclure des elements factuels (chiffres, constats, avant/apres)"
+      - "Montrer le process et les resultats, pas juste promettre"
+      - "Subtil — le lecteur doit penser 'je veux bosser avec eux'"
+      - "OK de mentionner l'audit gratuit comme porte d'entree"
+      - "1 DM qualifie d'un dirigeant d'agence > 100 likes de devs"
+
+distribution_hebdo:
+  tofu: 1
+  mofu: 1
+  bofu: 1

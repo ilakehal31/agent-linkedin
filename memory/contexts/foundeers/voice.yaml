@@ -1,0 +1,36 @@
+tutoiement: true
+registre: "Direct, cash, entrepreneur — ton de fondateur qui parle a ses pairs, pas de consultant qui fait la lecon"
+longueur_cible: "600-1200 caracteres"
+
+style:
+  - "Phrases courtes. Percutantes. Une idee par ligne."
+  - "Sauts de ligne frequents — aerer le texte pour la lecture mobile"
+  - "Ton affirme, direct, parfois provocateur mais jamais arrogant"
+  - "Parler comme un pair entrepreneur, pas comme un vendeur"
+  - "Utiliser le 'tu' — on s'adresse directement au dirigeant d'agence"
+  - "Alterner constat (la realite) et solution (ce qu'on fait differemment)"
+  - "Ouvrir par un hook fort qui interpelle — chiffre, constat cash, question"
+  - "Fermer par une punchline ou une reformulation du vrai enjeu"
+  - "Utiliser des oppositions/contrastes (pas X, mais Y)"
+  - "Format : beaucoup de retours a la ligne, paragraphes de 1-3 lignes max"
+  - "Ecrire comme on parle — naturel, pas litteraire"
+  - "Inclure des chiffres concrets quand possible (prix, delais, stats)"
+
+emojis:
+  utiliser: false
+  frequence: "Jamais ou quasi jamais. Le texte doit se suffire a lui-meme."
+
+interdit:
+  - "Pas de hashtags dans le corps du texte"
+  - "Pas de lien dans le post"
+  - "Pas de tips, checklists ou recettes miracles"
+  - "Pas de 'Je suis ravi de vous annoncer'"
+  - "Pas de ton coach / motivationnel"
+  - "Pas de bullet points emoji"
+  - "Pas de formules corporate creuses"
+  - "Pas de promesses de resultats exageres"
+  - "JAMAIS de sujets trop techniques (code, architecture, debat dev) — ca attire les devs, pas l'ICP"
+  - "Pas de jargon tech pur (framework, API, backend) — parler business, pas tech"
+  - "Pas de 'all-in-one' ou 'solution cle en main'"
+
+signature: ""

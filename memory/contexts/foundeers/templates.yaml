@@ -1,0 +1,69 @@
+formats:
+  - name: "Constat cash"
+    description: "Poser un constat brutal sur la realite des agences B2B — faire reagir en nommant ce que tout le monde vit mais ne dit pas"
+    structure: |
+      Hook percutant (chiffre ou constat direct)
+      La realite que tout le monde connait (2-3 lignes courtes)
+      Pourquoi c'est un probleme (le plafond, la limite)
+      La bascule (ce que les meilleurs font differemment)
+      Punchline de cloture
+    exemple_hook: "Tu as atteint 150k EUR de CA mensuel. Good job ! Cependant tu travailles 60h/semaine."
+    performance: "Fort en reactions de dirigeants d'agences et identification"
+
+  - name: "Opposition / Reframe"
+    description: "Opposer deux visions — ce qu'on croit vs ce qui est vrai. Recadrer le debat."
+    structure: |
+      Hook (affirmation qui recadre)
+      Ce que tout le monde dit/fait
+      Pourquoi c'est a cote
+      Le vrai sujet (reformulation)
+      Phrase de cloture forte
+    exemple_hook: "Foundeers n'aide pas les agences a 'developper un SaaS'. On aide les agences a productiser leur expertise metier."
+    performance: "Fort en clarte de positionnement et saves"
+
+  - name: "Behind the scenes"
+    description: "Partager les coulisses de Foundeers — transparence, process, lecons apprises"
+    structure: |
+      Hook (situation ou decision concrete)
+      Le contexte (pourquoi on en est la)
+      Ce qu'on a fait / decide / appris (3-4 points)
+      La lecon ou le resultat
+      Phrase de cloture authentique
+    exemple_hook: "On a decide de rendre notre audit gratuit. Voila pourquoi."
+    performance: "Fort en confiance et DMs"
+
+  - name: "Comparaison business"
+    description: "Comparer les options pour un dirigeant d'agence qui veut builder — toujours sous l'angle business (cout, delai, risque), JAMAIS technique"
+    structure: |
+      Hook (la question que se pose le dirigeant)
+      Option A et ses limites (2-3 lignes)
+      Option B et ses limites (2-3 lignes)
+      Ce qu'on fait differemment (pas une pub, un constat)
+      La vraie question a se poser
+    exemple_hook: "Dev shop, no-code, freelance ou studio ? La vraie question c'est pas qui code. C'est qui comprend ton business."
+    performance: "Fort en saves et consideration"
+    regles_speciales:
+      - "JAMAIS comparer les technos — comparer les approches business"
+      - "Parler en euros, en semaines, en risque — pas en frameworks"
+
+  - name: "Chiffre qui claque"
+    description: "Partir d'un chiffre concret pour declencher une reflexion sur le modele agence"
+    structure: |
+      Hook (le chiffre, brut)
+      Le contexte derriere ce chiffre (2-3 lignes)
+      Pourquoi c'est un signal (pas juste un nombre)
+      La reflexion que ca devrait provoquer
+      Punchline
+    exemple_hook: "1 500 EUR/jour. C'est ce que tu factures. Mais tu ne peux pas te multiplier."
+    performance: "Fort en impressions et reactions"
+
+  - name: "Process explique"
+    description: "Expliquer une etape du process Foundeers — pedagogique, concret, transparent"
+    structure: |
+      Hook (le probleme que cette etape resout)
+      Pourquoi c'est important (le cout de ne pas le faire)
+      Comment ca marche concretement (3-4 etapes)
+      Ce que le client recoit / gagne
+      Phrase de cloture
+    exemple_hook: "Avant de coder une seule ligne, on fait un audit gratuit. Et parfois on dit stop."
+    performance: "Fort en credibilite et conversion"

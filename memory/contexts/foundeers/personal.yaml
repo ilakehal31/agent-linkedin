@@ -1,0 +1,71 @@
+prenom: "Idris"
+nom: "Lakehal"
+role: "Co-fondateur de Foundeers — Studio SaaS pour agences B2B"
+parcours: "Tech Lead avec experience en agence et startup. A vu de l'interieur les limites du modele agence (temps/argent). A co-fonde Foundeers pour aider les dirigeants d'agences B2B a productiser leur expertise en SaaS."
+
+headline_linkedin: "On transforme l'expertise des agences B2B en produits SaaS | Tech Lead"
+
+convictions:
+  - "Le modele temps/argent des agences a un plafond de verre — la productisation est la sortie"
+  - "Un SaaS sans expertise metier = un outil que personne n'utilise"
+  - "Mieux vaut un audit gratuit honnete (GO/PIVOT/STOP) qu'un devis a 60k sans vision"
+  - "Les couts de dev ont chute depuis 2023 — un MVP solide ne devrait plus couter 50k+"
+  - "Design system + branding + dev = un tout indissociable, pas 3 prestations separees"
+  - "Propriete totale du code et de la marque pour le client — pas de lock-in"
+  - "12 semaines a qualite constante > 8 semaines promises et 14 livrees avec du stress"
+  - "Construire une reputation, pas une audience"
+  - "On ne vend pas du dev, on vend une transformation de business model"
+
+erreurs_et_lecons:
+  - "Le post sur les prix des MVP (50k) a fait 43k impressions mais attire uniquement des devs seniors — pas l'ICP. Lecon : ne pas parler de sujets techniques/prix du dev, ca attire les devs pas les dirigeants d'agences."
+  - "Parler du plafond du modele agence (150k/mois, 60h/semaine) fonctionne mieux pour toucher l'ICP."
+
+reussites:
+  - "Premier projet client en cours"
+  - "Strategie V2 affinee avec un positionnement specifique (agences B2B) au lieu de 'all-in-one'"
+  - "Offre restructuree : audit gratuit -> build 12 semaines -> accompagnement recurrent"
+
+anecdotes:
+  - "Un dirigeant d'agence m'a dit : 'J'ai contacte un dev shop, ils m'ont envoye un devis a 60k sans comprendre mon metier.' C'est exactement pourquoi Foundeers existe."
+  - "On a vu des dirigeants avec des Notion/Airtable monstrueux qu'ils montrent a leurs clients — c'est un SaaS qui s'ignore."
+
+style_personnel:
+  expressions_frequentes:
+    - "C'est ton modele le probleme, pas ton expertise"
+    - "La question n'est plus... C'est..."
+    - "Elle est la toute la difference"
+    - "C'est ca [sujet]"
+    - "La realite c'est que..."
+    - "Bref, [conclusion punchline]"
+    - "Good job ! Cependant..."
+    - "Le probleme n'est pas X. C'est Y."
+
+offre:
+  phase_1:
+    nom: "Audit gratuit"
+    prix: "Gratuit"
+    duree: "Appel diagnostic de 30 min"
+    description: "Determiner si le produit merite d'etre construit, et comment. Scorecard GO/PIVOT/STOP."
+    livrables:
+      - "Scorecard GO / PIVOT / STOP"
+      - "Recommandation honnete et argumentee"
+      - "Estimation budgetaire pour la suite"
+  phase_2:
+    nom: "Build Complet"
+    prix: "28 000 - 42 000 EUR"
+    duree: "12 semaines"
+    description: "Livrer un SaaS fonctionnel, brande et pret a aller au marche"
+    inclut:
+      - "Identite visuelle complete (logo, couleurs, typo)"
+      - "Design system (composants UI, tokens, guidelines)"
+      - "Developpement MVP (Nuxt 3 + Supabase + Vercel)"
+      - "Landing page haute conversion"
+      - "Analytics + integrations"
+      - "Documentation + handoff"
+    propriete: "100% client — code source, design, marque"
+  phase_3:
+    nom: "Croissance & Iterations"
+    formules:
+      - "Maintenance : 2 000 EUR/mois"
+      - "Growth : 4 000 EUR/mois"
+      - "Scale : 6 500 EUR/mois"

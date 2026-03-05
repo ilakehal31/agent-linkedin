@@ -1,0 +1,50 @@
+description: "4 piliers de contenu pour Foundeers — tous orientes vers le dirigeant d'agence B2B qui veut productiser, JAMAIS vers les developpeurs"
+
+pillars:
+  - name: "Le plafond du modele agence"
+    description: "Remettre en question le modele temps/argent des agences B2B. Faire prendre conscience du plafond de verre."
+    exemples_sujets:
+      - "Tu vends du temps. Ton CA est plafonne."
+      - "150k EUR/mois mais 60h/semaine — le vrai probleme c'est le modele"
+      - "Plus de clients = plus d'heures = meme limite"
+      - "Pourquoi les meilleures agences creent des produits"
+      - "Tu refuses des projets faute de bande passante ? C'est un signal."
+      - "Le jour ou j'ai compris que facturer a la journee avait une fin"
+
+  - name: "Productiser son expertise"
+    description: "Comment transformer un process repetitif d'agence en produit SaaS. Le passage du service au produit."
+    exemples_sujets:
+      - "Tu fais la meme chose pour chaque client — ca devrait etre un outil"
+      - "Ton Notion/Airtable qui grossit ? C'est un proto sans le savoir"
+      - "La difference entre 'developper un SaaS' et 'productiser son expertise'"
+      - "3 signes que ton expertise est prete a devenir un produit"
+      - "Productiser ne veut pas dire automatiser — c'est un changement de modele"
+      - "Un SaaS sans expertise metier = un outil que personne n'utilise"
+
+  - name: "La realite du build"
+    description: "Demystifier le developpement d'un SaaS. Prix reels, delais, ce qui compte vraiment. ATTENTION : toujours parler du point de vue business/dirigeant, JAMAIS debat technique entre devs."
+    exemples_sujets:
+      - "Un MVP solide coute 15-25k aujourd'hui, pas 50k"
+      - "Pourquoi 12 semaines et pas 8 pour un MVP de qualite"
+      - "Ce qu'un dev shop ne te dira jamais sur ton projet SaaS"
+      - "Design system + branding + dev : pourquoi separer ca ne marche pas"
+      - "L'erreur classique : commencer par le code avant la strategie"
+      - "Pourquoi un audit gratuit avant de builder sauve des milliers d'euros"
+    regles_speciales:
+      - "TOUJOURS parler du point de vue du dirigeant d'agence (cout, delai, risque, ROI)"
+      - "JAMAIS de debat technique pur (frameworks, langages, architecture) — ca attire les devs, pas l'ICP"
+      - "Comparer les options (dev shop vs no-code vs studio) sous l'angle business"
+
+  - name: "Behind the scenes / Building in public"
+    description: "Partager les coulisses de Foundeers et des projets en cours. Creer de la proximite et de la transparence."
+    exemples_sujets:
+      - "Ce qu'on a appris en lançant notre premier projet client"
+      - "Notre process en 3 phases — pourquoi on commence par un audit gratuit"
+      - "Pourquoi on a choisi de se specialiser sur les agences B2B"
+      - "Les erreurs qu'on a faites (et qu'on ne refera plus)"
+      - "Comment on price nos offres (et pourquoi c'est transparent)"
+      - "Le founding client program — pourquoi on offre un prix reduit aux premiers"
+
+frequence_recommandee:
+  posts_par_semaine: 3
+  distribution: "1 plafond/productisation + 1 realite du build + 1 behind the scenes"

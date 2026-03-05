@@ -1,0 +1,93 @@
+name: "Foundeers"
+description: "Studio qui transforme l'expertise des agences B2B en produits SaaS rentables. On accompagne les dirigeants d'agences de l'audit gratuit au build complet (branding + dev + acquisition) en 12 semaines."
+
+persona:
+  titre: "Fondateur / CEO / Dirigeant d'agence B2B"
+  secteur: "Services B2B : lead gen, coaching commercial, RevOps, RH, consulting, recrutement, marketing, SEO, growth"
+  taille_entreprise: "10-30 employes"
+  localisation: "France / Europe francophone"
+  age_range: "30-50 ans"
+  niveau_tech: "Moyen — utilise Notion, Airtable, Google Sheets, outils internes bricoles. Pas developpeur."
+  ca: "1M-3M EUR"
+  modele_actuel: "Prestation sur-mesure, facturation au jour ou au projet"
+
+douleurs:
+  - "Il vend du temps. Son CA est plafonne par le nombre de consultants qu'il peut recruter."
+  - "Il travaille 60h/semaine et refuse des projets faute de bande passante."
+  - "Il a identifie un process repetitif qu'il execute pour 80% de ses clients mais ne sait pas comment en faire un outil."
+  - "Il y pense depuis 6-18 mois mais ne sait pas par ou commencer — produit ? marque ? marketing ?"
+  - "Il a peut-etre deja parle a un dev shop. Il a ete refroidi par le prix (60-80k+), le flou sur les delais, ou l'absence de vision produit/marche."
+  - "Il a un Notion/Airtable de plus en plus complexe qu'il montre a ses clients — signe qu'il a deja un proto sans le savoir."
+  - "Son modele temps/argent a un plafond de verre : plus de clients = plus d'heures = meme limite."
+  - "Il ne veut pas dependre d'un prestataire technique qui ne comprend pas son metier."
+
+objectifs:
+  - "Sortir du modele temps contre argent"
+  - "Transformer son expertise/methodologie repetitive en SaaS"
+  - "Creer un produit qui tourne sans lui (revenus recurrents, scalabilite)"
+  - "Avoir un partenaire qui comprend le business model d'une agence, pas juste un dev shop"
+  - "Lancer rapidement sans exploser le budget (pas 60k+ pour un MVP)"
+  - "Garder la propriete totale du code, de la marque et du design"
+
+objections:
+  - "Et si je depense 30k+ pour rien ?"
+  - "J'ai deja parle a un dev, il ne comprend pas mon metier"
+  - "Je ne sais pas si mon idee tient la route"
+  - "Les dev shops livrent du code sans design, sans marque, sans strategie d'acquisition"
+  - "J'ai pas le temps de gerer un projet tech en plus de mon agence"
+  - "C'est trop cher pour un MVP"
+  - "Je ne veux pas etre dependant d'un prestataire"
+
+vocabulaire:
+  utilise:
+    - "productiser"
+    - "expertise metier"
+    - "process repetitif"
+    - "modele temps/argent"
+    - "plafond de verre"
+    - "SaaS"
+    - "MVP"
+    - "design system"
+    - "identite de marque"
+    - "landing page"
+    - "acquisition"
+    - "build"
+    - "audit"
+    - "traction"
+    - "recurring revenue"
+    - "scalabilite"
+    - "stack moderne"
+    - "no-code"
+    - "dev shop"
+  evite:
+    - "all-in-one"
+    - "solution cle en main"
+    - "disruption"
+    - "growth hacking"
+    - "tips"
+    - "hack"
+    - "checklist miracle"
+    - "on fait tout"
+    - "agence 360"
+
+linkedin:
+  temps_lecture: "Matin tot (7-9h) et pause dejeuner"
+  reagit_a:
+    - "Posts qui parlent de la realite du business d'agence (CA, heures, plafond)"
+    - "Contenus sur la productisation et le passage au produit"
+    - "Temoignages de fondateurs qui ont fait la transition service -> produit"
+    - "Posts avec des chiffres concrets (prix, delais, resultats)"
+    - "Contenus qui remettent en question le statu quo des agences"
+  ignore:
+    - "Tips generiques"
+    - "Contenu corporate creux"
+    - "Posts trop techniques (code, architecture) — pas son ICP"
+    - "Contenus purement dev/freelance"
+    - "Posts motivationnels sans substance"
+
+signaux_achat:
+  - "Il poste sur LinkedIn sur la 'productisation' ou le 'passage au produit'"
+  - "Il cherche un CTO ou un 'associe technique'"
+  - "Il a un Notion/Airtable de plus en plus complexe qu'il montre a ses clients"
+  - "Un de ses clients lui a dit 'vous devriez en faire un logiciel'"
+  - "Il partage des reflexions sur les limites du modele agence"
