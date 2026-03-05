@@ -50,8 +50,19 @@ if not contexts:
     st.warning("Aucun contexte disponible. Créez-en un dans Onboarding.")
     st.stop()
 
-# --- Inputs ---
-context_name = st.session_state.get("active_context", contexts[0])
+# --- Sidebar context selector (mirrors app.py) ---
+st.sidebar.title("✍️ Ghost Writer")
+config_path_yaml = Path(__file__).parent.parent / "config.yaml"
+with open(config_path_yaml, "r", encoding="utf-8") as _f:
+    _cfg = yaml.safe_load(_f)
+default_context = _cfg.get("defaults", {}).get("context", contexts[0])
+default_idx = contexts.index(default_context) if default_context in contexts else 0
+context_name = st.sidebar.selectbox(
+    "Contexte actif",
+    contexts,
+    index=default_idx,
+    key="active_context",
+)
 config = st.session_state["config"]
 
 # Load context for pillar/format options

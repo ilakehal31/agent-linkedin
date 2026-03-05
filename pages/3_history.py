@@ -1,9 +1,11 @@
 """Historique + Analytics des posts LinkedIn."""
 
 import json
+from pathlib import Path
 
 import streamlit as st
 import pandas as pd
+import yaml
 
 from memory import loader, history
 
@@ -15,7 +17,19 @@ if not contexts:
     st.warning("Aucun contexte disponible.")
     st.stop()
 
-context_name = st.session_state.get("active_context", contexts[0])
+# --- Sidebar context selector ---
+st.sidebar.title("✍️ Ghost Writer")
+config_path = Path(__file__).parent.parent / "config.yaml"
+with open(config_path, "r", encoding="utf-8") as _f:
+    _cfg = yaml.safe_load(_f)
+default_context = _cfg.get("defaults", {}).get("context", contexts[0])
+default_idx = contexts.index(default_context) if default_context in contexts else 0
+context_name = st.sidebar.selectbox(
+    "Contexte actif",
+    contexts,
+    index=default_idx,
+    key="active_context",
+)
 st.caption(f"Contexte : **{context_name}**")
 
 # --- Funnel distribution ---

@@ -62,10 +62,13 @@ st.sidebar.title("✍️ Ghost Writer")
 # Context selector
 contexts = loader.list_contexts()
 if contexts:
+    config = st.session_state.get("config", {})
+    default_context = config.get("defaults", {}).get("context", contexts[0])
+    default_idx = contexts.index(default_context) if default_context in contexts else 0
     active = st.sidebar.selectbox(
         "Contexte actif",
         contexts,
-        index=0,
+        index=default_idx,
         key="active_context",
     )
 else:
