@@ -240,23 +240,32 @@ def format_context_for_prompt(ctx: dict, funnel_stage: str | None = None) -> str
             for c in convictions:
                 parts.append(f"  - {c}")
 
-        erreurs = personal.get("erreurs", [])
+        erreurs = personal.get("erreurs", personal.get("erreurs_et_lecons", []))
         if erreurs:
             parts.append("\nErreurs vécues (pour du storytelling authentique) :")
             for e in erreurs:
-                parts.append(f"  - {e.get('situation', '')} → Leçon : {e.get('lecon', '')}")
+                if isinstance(e, dict):
+                    parts.append(f"  - {e.get('situation', '')} → Leçon : {e.get('lecon', '')}")
+                else:
+                    parts.append(f"  - {e}")
 
         reussites = personal.get("reussites", [])
         if reussites:
             parts.append("\nRéussites (pour de la preuve sociale) :")
             for r in reussites:
-                parts.append(f"  - {r.get('situation', '')} — {r.get('chiffres', '')}")
+                if isinstance(r, dict):
+                    parts.append(f"  - {r.get('situation', '')} — {r.get('chiffres', '')}")
+                else:
+                    parts.append(f"  - {r}")
 
         anecdotes = personal.get("anecdotes", [])
         if anecdotes:
             parts.append("\nAnecdotes utilisables :")
             for a in anecdotes:
-                parts.append(f"  - {a.get('contexte', '')} → {a.get('histoire', '')} (Morale : {a.get('morale', '')})")
+                if isinstance(a, dict):
+                    parts.append(f"  - {a.get('contexte', '')} → {a.get('histoire', '')} (Morale : {a.get('morale', '')})")
+                else:
+                    parts.append(f"  - {a}")
 
         expressions = personal.get("style_personnel", {}).get("expressions_frequentes", [])
         if expressions:
